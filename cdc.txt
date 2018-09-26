@@ -1,1 +1,1 @@
-name cdc age 22
+name cdc age 22 sex man
